@@ -1,0 +1,45 @@
+Time of purchase is Thu Mar 28 17:52:07 UTC 2019
+
+
+Name of buyer is Sandile Selengoane
+
+
+Total cost equals R100.0
+
+
+Total paid is R100.0
+
+
+Total change equals R0.0
+
+
+Total Pie contribution equals R0.0
+
+
+Total Jelly-sweets contribution equals R0.5
+
+
+Total Champion contribution equals R0.0
+
+
+Total Sandwitch contribution equals R10.0
+
+
+Total Donught contribution equals R0.0
+
+
+Total Stylos contribution equals R0.0
+
+
+Total Corn-chips contribution equals R1.0
+
+
+Total Kinsley contribution equals R110.0
+
+
+Total Vet-cake contribution equals R0.0
+
+
+Total Go-slo contribution equals R0.0
+
+

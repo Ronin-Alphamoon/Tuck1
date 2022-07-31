@@ -1,0 +1,45 @@
+Time of purchase is Fri Jan 18 17:56:16 UTC 2019
+
+
+Name of buyer is le
+
+
+Total cost equals R1.0
+
+
+Total paid is R520.0
+
+
+Total change equals R519.0
+
+
+Total Pie contribution equals R0.0
+
+
+Total Jelly-sweets contribution equals R0.0
+
+
+Total Champion contribution equals R0.0
+
+
+Total Sandwitch contribution equals R0.0
+
+
+Total Donught contribution equals R0.0
+
+
+Total Stylos contribution equals R1.0
+
+
+Total Corn-chips contribution equals R0.0
+
+
+Total Kinsley contribution equals R0.0
+
+
+Total Vet-cake contribution equals R0.0
+
+
+Total Go-slo contribution equals R0.0
+
+
